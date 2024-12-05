@@ -1,0 +1,47 @@
+Challenge Set 1
+ This sets cover basics data types and combination of different techniques around it to write
+ python program.– This is curated for Python class students specifically for batch of 19nov (3:00 PM Group)
+
+ 1. Numbers and Floats
+ Write a Python function that takes two numbers (integers or floats) as input
+ and returns:
+ ● Their sum
+ ● Their difference
+ ● Their product
+ ● Their division (handle the case where division by zero might occur).
+
+ 2. Strings
+ Write a Python program that:
+ ● Takes a string as input.
+ ● Reverses the string.
+ ● Counts the number of vowels (a, e, i, o, u) in the string.
+ ● Converts the string to uppercase.
+
+3. Lists
+ Write a Python function that:
+ ● Accepts a list of integers as input. (use split method)
+ ● Returns the largest and smallest number in the list.
+ ● Removes duplicates from the list.
+ ● Sorts the list in descending order.
+
+ 4. Tuples
+ Write a Python function that:
+ ● Takes a tuple of integers as input.
+ ● Returns a new tuple with only the even numbers from the original
+ tuple.
+ ● Converts the tuple into a list and adds a new element to it.
+
+ 5. Dictionaries (Basics)
+ Write a Python program that:
+ ● Creates a dictionary with keys as numbers from 1 to 5 and values as
+ their squares.
+ ● Prints all the keys and values.
+ ● Updates the value of key 3 to 27.
+ ● Deletes the key 5 from the dictionary.
+
+6. String and Dictionary Combination
+ Write a Python function that:
+ ● Takes a string as input.
+ ● Counts the frequency of each character in the string and stores it in a
+ dictionary.
+ ● Ignores spaces and considers case-insensitive comparisons.
